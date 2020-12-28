@@ -262,7 +262,7 @@ textarea {
 }
 
 #middle_flow {
-    margin: 10px;
+    margin: 10px 0px;
     display: box;
     display: flex;
     display: flexbox;
