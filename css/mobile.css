@@ -1,4 +1,4 @@
-middle_flow {
+#middle_flow {
     margin: 0px;
     flex-direction: column;
     box-orient: vertical; /* older browsers */
